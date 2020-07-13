@@ -1,0 +1,15 @@
+PORT=3007
+WEBHOST=localhost
+REACT_APP_GOOGLE_API_KEY=AIzaSyDao5q0i8_Not_a_Real_API_Key
+REACT_APP_OMDB_API_KEY=ee12fc82    ## Demo Key only. Might NOT work at a later time.
+HOST=localhost
+USER=vanguard
+PASSWORD=myFakeW3bP@55W0rd!  # Fake!
+DB=codingvanguard
+
+# OMDB API target http://www.omdbapi.com/?apikey=ee36fa91
+# Open Movie DataBase -> Get a free API Key at www.omdbapi.com
+# change the key accordingly
+
+# Google Maps -> Get a free API Key at
+# https://developers.google.com/maps/documentation/javascript/get-api-key
