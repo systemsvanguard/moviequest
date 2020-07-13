@@ -7,7 +7,7 @@ USER=vanguard
 PASSWORD=myFakeW3bP@55W0rd!  # Fake!
 DB=codingvanguard
 
-# OMDB API target http://www.omdbapi.com/?apikey=ee36fa91
+# OMDB API target http://www.omdbapi.com/?apikey=ee12fc82
 # Open Movie DataBase -> Get a free API Key at www.omdbapi.com
 # change the key accordingly
 
